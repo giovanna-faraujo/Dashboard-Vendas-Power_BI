@@ -36,7 +36,7 @@ O dashboard permite identificar de forma clara quais **Gerentes** e **Lojas** es
 
 ---
 
-## Detalhes Técnicos
+### Detalhes Técnicos
 
 * **Ferramenta:** Power BI 
 * **Bases de Dados:** CSV/Excel (Pedidos, Lojas e Calendário)
