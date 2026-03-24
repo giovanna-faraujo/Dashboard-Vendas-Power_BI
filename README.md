@@ -1,5 +1,8 @@
 # Dashboard de Performance de Vendas e Varejo
 
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/excel)
+
 ## Visão Geral
 
 Este projeto é um Dashboard de Business Intelligence (BI) focado em **Vendas no Varejo**, desenvolvido para monitorar a performance de lojas e produtos. O objetivo é capacitar a gestão com uma visão holística da receita, permitindo a identificação de áreas geográficas de alto desempenho e a avaliação da eficiência gerencial.
@@ -35,7 +38,7 @@ O dashboard permite identificar de forma clara quais **Gerentes** e **Lojas** es
 
 ## Detalhes Técnicos
 
-* **Ferramenta:** Power BI (`Aula 3.pbix`)
+* **Ferramenta:** Power BI 
 * **Bases de Dados:** CSV/Excel (Pedidos, Lojas e Calendário)
 * **Técnicas:** Modelagem de Dados Relacional, criação de Tabela Calendário e uso de DAX para cálculo de KPIs.
 
