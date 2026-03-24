@@ -9,8 +9,6 @@ Este projeto é um Dashboard de Business Intelligence (BI) focado em **Vendas no
 
 ---
 
-## Destaques para Recrutadores
-
 ### O que foi avaliado e modelado?
 
 O projeto exigiu a integração de múltiplas fontes de dados (pedidos, cadastro de lojas e calendário) em um modelo relacional (Star Schema) robusto, focado em três pilares:
