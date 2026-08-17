@@ -10,24 +10,24 @@ https://app.powerbi.com/view?r=eyJrIjoiNTgxMGU1Y2ItYjY0Mi00N2E3LThjM2MtOGI2NzU5Z
 
 Este projeto é um Dashboard de Business Intelligence (BI) focado em **Vendas no Varejo**, desenvolvido para monitorar a performance de lojas e produtos. O objetivo é capacitar a gestão com uma visão holística da receita, permitindo a identificação de áreas geográficas de alto desempenho e a avaliação da eficiência gerencial.
 
-![Dashboard Versão Desktop - Leticia](<img width="589" height="331" alt="Foto Dashaboard Vendas" src="https://github.com/user-attachments/assets/7ff75ee4-7e51-4a5e-812f-cd0b23d8e0f9" />
-)
+
 
 **Descrição:** Dashboard focado na análise de faturamento da gerente Leticia Souza.
 
----
+<img width="589" height="331" alt="Foto Dashaboard Vendas" src="https://github.com/user-attachments/assets/ae7c34ef-9016-4b11-b48a-f42c4d47ff7f" />
 
-![Dashboard Versão Desktop - Eduardo](<img width="590" height="330" alt="Foto dashboard Eduardo" src="https://github.com/user-attachments/assets/f594b5d5-3887-4421-9caf-9484aea6c69b" />
-)
+---
 
 **Descrição:** Visão regional das vendas acompanhadas pelo gerente Eduardo Nunes.
 
+<img width="590" height="330" alt="Foto dashboard Eduardo" src="https://github.com/user-attachments/assets/eb4c34ca-6f47-491d-945c-4e312e6f6ffa" />
+
+
 ---
 
-![Dashboard Versão Mobile](<img width="182" height="328" alt="Foto Dashaboard Vendas Mobile" src="https://github.com/user-attachments/assets/efd1ebfc-3cde-4494-8be3-0da491439158" />
-)
-
 **Descrição:** Layout adaptado para visualização em dispositivos móveis.
+
+<img width="182" height="328" alt="Foto Dashaboard Vendas Mobile" src="https://github.com/user-attachments/assets/34d4dc95-4fba-489f-bfe8-ade503dca8f8" />
 
 ---
 
