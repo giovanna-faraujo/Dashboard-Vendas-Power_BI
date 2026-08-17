@@ -3,9 +3,12 @@
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/excel)
 
+--
+
 ## Link para visualização:
 https://app.powerbi.com/view?r=eyJrIjoiNTgxMGU1Y2ItYjY0Mi00N2E3LThjM2MtOGI2NzU5ZmY1ZWM0IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
+---
 ## Visão Geral
 
 Este projeto é um Dashboard de Business Intelligence (BI) focado em **Vendas no Varejo**, desenvolvido para monitorar a performance de lojas e produtos. O objetivo é capacitar a gestão com uma visão holística da receita, permitindo a identificação de áreas geográficas de alto desempenho e a avaliação da eficiência gerencial.
@@ -39,11 +42,15 @@ O projeto exigiu a integração de múltiplas fontes de dados (pedidos, cadastro
 2.  **Performance Operacional (Lojas/Geografia):** Distribuição da receita por `Cidade`, `Estado` e o impacto individual de cada `Gerente` na receita total.
 3.  **Performance de Produto:** Vendas por `Produto`, identificando os *Top Sellers*.
 
+--
+
 ### Problema de Negócio Identificado
 
 A principal análise resolve o problema de **distribuição desigual de resultados e gestão de performance**.
 
 O dashboard permite identificar de forma clara quais **Gerentes** e **Lojas** estão abaixo ou acima da média de desempenho. A capacidade de mapear a performance por **Latitude/Longitude** oferece *insights* estratégicos sobre a saturação de mercado e o potencial de expansão/otimização em diferentes regiões geográficas.
+
+---
 
 ### Métricas (KPIs) Importantes
 
