@@ -10,7 +10,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNTgxMGU1Y2ItYjY0Mi00N2E3LThjM2MtOGI2NzU5Z
 
 Este projeto é um Dashboard de Business Intelligence (BI) focado em **Vendas no Varejo**, desenvolvido para monitorar a performance de lojas e produtos. O objetivo é capacitar a gestão com uma visão holística da receita, permitindo a identificação de áreas geográficas de alto desempenho e a avaliação da eficiência gerencial.
 
-
+---
 
 **Descrição:** Dashboard focado na análise de faturamento da gerente Leticia Souza.
 
