@@ -7,6 +7,8 @@
 
 Este projeto é um Dashboard de Business Intelligence (BI) focado em **Vendas no Varejo**, desenvolvido para monitorar a performance de lojas e produtos. O objetivo é capacitar a gestão com uma visão holística da receita, permitindo a identificação de áreas geográficas de alto desempenho e a avaliação da eficiência gerencial.
 
+<img width="589" height="331" alt="Foto Dashaboard Vendas" src="https://github.com/user-attachments/assets/c5445a6a-c2ae-4782-a173-0f2d469e9e01" />
+
 ---
 
 ### O que foi avaliado e modelado?
