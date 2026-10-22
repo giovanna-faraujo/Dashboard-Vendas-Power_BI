@@ -43,7 +43,7 @@ O projeto exigiu a integração de múltiplas fontes de dados (pedidos, cadastro
 
 --
 
-### Problema de Negócio Identificado
+### Problema Identificado
 
 A principal análise resolve o problema de **distribuição desigual de resultados e gestão de performance**.
 
